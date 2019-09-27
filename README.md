@@ -1,13 +1,6 @@
 # Faeluria
-For the iOS assignment3
 
 The group get inspriation from the game "Slay the Spire"
-
-## Scenario
-When a students take the train every day, he doesn't know what to do. He can play the Game to kill time.
-
-When the internet connection is not stable, the person can play the offline game.
-
 
 ## Framework
 Spritekit is the officaly game engine
@@ -17,10 +10,6 @@ Spritekit is the officaly game engine
 Card iamge and idea Get from the "Slay the Spire"
 
 Card and game resource from the website"https://assetstore.unity.com" - CCG kit
-
-
-## User
-Kill time and enjoy fun
 
 
 ## Game Scene
