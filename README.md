@@ -1,6 +1,7 @@
 # Faeluria
 
 The group get inspriation from the game "Slay the Spire"
+The group include Jenny Hu and Ellie Siou
 
 ## Framework
 Spritekit is the officaly game engine
