@@ -37,3 +37,7 @@ Each turn, the player has 4 energy.
 Player needs to think how to use the card with limited energy.
 
 After using 4 energy, the player press the "end turn' to end this turn.
+
+
+### Note
+This is an archive, and does not contain full commits etc
